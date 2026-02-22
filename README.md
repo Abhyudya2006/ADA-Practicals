@@ -1,4 +1,4 @@
-# 📘 ADA Practicals (Algorithms & Data Structures)
+# 📘 ADA Practicals (Analysis and Design of Algorithms)
 
 Welcome to **ADA-Practicals** — a curated collection of practical experiments and implementations for Algorithms & Data Structures (ADA), authored by **Abhyudya2006**.
 
